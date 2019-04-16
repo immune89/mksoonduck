@@ -1,0 +1,474 @@
+# Webalizer V2.23-05 Incremental Data - 04/15/2019 23:02:10
+2019 4 15 23 2 10
+3465 2202 33 69 14 31 229113482 369 109 0
+11 1 1198 8 15
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+6 6 436 1 6 6
+12 11 29089 5 11 11
+1381 446 48187389 8 129 15
+80 51 5570651 4 10 10
+193 107 12976935 9 15 13
+30 29 943086 4 10 10
+1490 1353 139545945 21 158 28
+273 199 21859951 11 30 17
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+34 6 11902 6
+102 14 2257783 5
+3 2 14394 2
+9 1 20968 1
+8 8 596 8
+0 0 0 0
+7 7 23388 7
+25 24 956142 2
+0 0 0 0
+4 4 30182 4
+26 24 927061 5
+3 3 219 3
+45 45 5535676 3
+1 1 20760 1
+70 27 1026911 3
+125 125 15736537 18
+142 117 13637687 20
+85 31 945056 31
+811 307 34182758 77
+353 163 16346061 34
+95 12 442369 11
+1246 1184 125992208 99
+66 62 7210441 8
+205 35 3794383 21
+0
+0
+0
+2202
+0
+0
+0
+0
+0
+0
+0
+2
+0
+0
+1191
+0
+0
+0
+0
+0
+2
+63
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5
+0
+0
+0
+0
+0
+# -urls- 
+/js/jquery.animateNumber.min.js
+0 68 0 55640 0 0
+/css/flaticon.css
+0 68 0 56080 0 0
+/images/yunsang_1.jpg
+0 40 0 4808949 0 0
+/js/jquery.min.js
+0 68 0 10721520 0 0
+/images/person_1.jpg
+0 9 0 324810 0 0
+/images/wsdbjj_3.jpg
+0 37 0 2605200 0 0
+/images/category-2.jpg
+0 59 0 2783592 0 0
+/js/owl.carousel.min.js
+0 67 0 1686243 0 0
+/js/jquery.easing.1.3.js
+0 67 0 316329 0 0
+/fonts/icomoon/icomoon.eot
+0 2 0 614664 0 0
+/css/owl.theme.default.min.css
+0 69 0 39565 0 0
+/about.html
+0 35 0 403769 0 1
+/foods.html
+0 25 0 421083 0 0
+/js/google-map.js
+0 69 0 79786 0 0
+/images/blog-4.jpg
+0 19 0 1971788 0 0
+/images/bg_2.jpg
+0 40 0 7347469 0 0
+/css/icomoon.css
+0 68 0 3195000 0 0
+/images/blog-9.jpg
+0 18 0 2894304 0 0
+/images/blog-2.jpg
+0 46 0 5466065 0 0
+/js/bootstrap.min.js
+0 69 0 2286775 0 0
+/images/blog-1.jpg
+0 47 0 4849008 0 0
+/images/wsdbjjlogo_1.jpg
+0 40 0 1161400 0 0
+/fonts/icomoon/icomoon.ttf
+0 64 0 11979552 0 0
+/images/image_5.jpg
+0 61 0 6055946 0 0
+/js/jquery.magnific-popup.min.js
+0 67 0 788424 0 0
+/images/blog-6.jpg
+0 19 0 2335298 0 0
+/css/animate.css
+0 69 0 3019281 0 0
+/fonts/ionicons/fonts/ionicons.eot
+0 1 0 112826 0 0
+/js/aos.js
+0 67 0 555516 0 0
+/images/wsdbjj_2.jpg
+0 41 0 9596091 0 0
+/fonts/ionicons/fonts/ionicons.woff2
+0 60 0 1770720 0 0
+/images/bg_3.jpg
+0 47 0 3516723 0 0
+/images/category-1.jpg
+0 62 0 6711978 0 0
+/images/blog-3.jpg
+0 47 0 5865168 0 0
+/fonts/icomoon/icomoon.woff
+0 3 0 921732 0 0
+/images/wire_1.jpg
+0 38 0 4707696 0 0
+/css/aos.css
+0 68 0 1039320 0 0
+/single.html
+0 15 0 345195 0 0
+/css/style.css
+0 68 0 10234880 0 0
+/js/scrollax.min.js
+0 67 0 290433 0 0
+/images/bg_4.jpg
+0 32 0 11126566 0 0
+/js/popper.min.js
+0 67 0 742248 0 0
+/images/junghun_1.jpg
+0 38 0 3464578 0 0
+/images/image_4.jpg
+0 61 0 5895282 0 0
+/js/main.js
+0 68 0 249160 0 0
+/watch-info
+0 56 0 4152 57 56
+/lifestyle.html
+0 17 0 289643 0 0
+/images/bg_1.jpg
+0 32 0 6572522 0 0
+/images/blog-5.jpg
+0 19 0 3154928 0 0
+/fonts/open-iconic/open-iconic.woff
+0 37 0 494472 0 0
+/fonts/open-iconic/open-iconic.eot
+0 2 0 56392 0 0
+/contact.html
+0 30 0 327579 0 0
+/images/blog-8.jpg
+0 19 0 2804550 0 0
+/css/owl.carousel.min.css
+0 69 0 141040 0 0
+/css/ionicons.min.css
+0 69 0 1919456 0 0
+/images/about.jpg
+0 47 0 15382032 0 0
+/
+0 177 0 3653204 52 21
+/js/jquery-migrate-3.0.1.min.js
+0 69 0 468261 0 0
+/js/jquery.stellar.min.js
+0 68 0 503880 0 0
+/images/image_3.jpg
+0 61 0 10993514 0 0
+/images/image_1.jpg
+0 63 0 6633640 0 0
+/images/image_2.jpg
+0 61 0 17377818 0 0
+/images/author.jpg
+0 60 0 4343541 0 0
+/js/jquery.waypoints.min.js
+0 68 0 353400 0 0
+/images/blog-7.jpg
+0 19 0 2276106 0 0
+/images/minbo_1.jpeg
+0 38 0 3344706 0 0
+/css/open-iconic-bootstrap.min.css
+0 69 0 388147 0 0
+/images/image_6.jpg
+0 15 0 1924736 0 0
+/css/magnific-popup.css
+0 68 0 278000 0 0
+# End Of Table - urls
+# -sites- (monthly)
+175.223.11.106
+0 66 62 7402653 1 1555277156
+/
+211.176.125.70
+0 2 2 314261 1 1554824278
+/
+211.36.147.111
+0 141 71 7602949 4 1555344365
+/single.html
+211.231.103.107
+0 1 1 20760 1 1555333827
+/
+175.116.124.187
+0 169 80 3220707 2 1555276955
+/
+27.0.238.117
+0 4 4 88522 3 1555282646
+/
+211.249.40.3
+0 2 2 30033 2 1554974396
+/
+211.58.89.84
+0 172 172 20657409 4 1555354931
+/
+114.108.175.173
+0 57 56 4360 57 1555366610
+/watch-info
+103.59.156.16
+0 4 4 73733 4 1555367744
+/
+112.169.194.195
+0 44 43 5535737 1 1555087275
+/
+211.36.157.106
+0 75 75 10193471 1 1555343707
+/single.html
+58.76.168.150
+0 69 64 7489694 1 1555277855
+/foods.html
+59.187.239.219
+0 62 60 7300392 1 1555277416
+/foods.html
+110.70.51.203
+0 58 57 7168069 1 1555279403
+/about.html
+211.39.150.194
+0 47 45 2687097 4 1555345859
+/
+211.186.192.28
+0 206 202 22783585 1 1555277383
+/about.html
+211.36.144.146
+0 74 65 9120866 2 1555292264
+/
+210.126.18.160
+0 84 3 933622 1 1554937915
+/
+211.54.64.180
+0 84 1 22940 1 1555033644
+/
+211.231.106.21
+0 1 1 202042 0 0
+-
+211.39.150.195
+0 46 40 1857427 3 1555253520
+/
+183.101.242.18
+0 548 157 13195989 3 1555365360
+/
+39.7.54.70
+0 104 102 11276004 1 1555277511
+/lifestyle.html
+223.33.164.184
+0 49 47 4608928 1 1555277401
+/
+110.70.27.202
+0 159 153 18486268 2 1555277178
+/
+183.101.242.89
+0 679 190 21575864 1 1554921125
+/
+175.223.26.46
+0 48 44 4071928 1 1555277648
+/
+210.126.18.111
+0 53 52 7146665 1 1555087297
+/foods.html
+110.70.58.229
+0 177 173 17234432 1 1555277247
+/
+203.133.180.74
+0 1 1 123878 0 0
+-
+58.76.177.106
+0 66 61 7256418 1 1555277459
+/about.html
+175.119.200.91
+0 113 112 9426779 1 1555277293
+/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+211.176.125.70
+0 1 1 307168 0 0
+-
+211.36.147.111
+0 74 8 170519 3 1555344365
+/single.html
+211.231.103.107
+0 1 1 20760 1 1555333827
+/
+211.58.89.84
+0 43 43 4051168 1 1555354931
+/
+114.108.175.173
+0 7 7 530 7 1555366610
+/watch-info
+103.59.156.16
+0 1 1 20760 1 1555367744
+/
+211.36.157.106
+0 75 75 10193471 1 1555343707
+/single.html
+211.39.150.194
+0 6 6 502932 1 1555345859
+/
+211.36.144.146
+0 15 10 2227605 1 1555292264
+/
+211.39.150.195
+0 6 4 313661 0 0
+-
+183.101.242.18
+0 44 43 4051377 1 1555365360
+/
+# End Of Table - sites (daily)
+# -referrers- 
+http://wsdbjj.com/css/ionicons.min.css
+0 37
+http://wsdbjj.com/
+0 2267
+http://wsdbjj.com/css/icomoon.css
+0 37
+http://wsdbjj.com/single.html
+0 26
+- (Direct Request)
+0 203
+http://wsdbjj.com/images/minbo_1.jpeg
+0 1
+http://wsdbjj.com/foods.html
+0 220
+http://wsdbjj.com/index.html
+0 266
+http://wsdbjj.com/contact.html
+0 141
+http://wsdbjj.com/css/open-iconic-bootstrap.min.css
+0 19
+http://wsdbjj.com/lifestyle.html
+0 34
+http://www.wsdbjj.com/
+0 22
+http://wsdbjj.com/images/blog-1.jpg
+0 1
+http://wsdbjj.com/about.html
+0 191
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Linux; Android 9; SM-G965N Build/PPR1.180610.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/
+0 66
+Mozilla/5.0 (Linux; Android 7.0; MI MAX) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.90 Mobile Safari/537.36
+0 62
+Mozilla/5.0 (iPad; CPU OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1 Mobile/15E148 Safari/604.
+0 423
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.2; WOW64; Trident/7.0; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.3
+0 27
+Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 KAKAOTALK 8.3.3
+0 189
+facebookexternalhit/1.1;kakaotalk-scrap/1.0; +https://devtalk.kakao.com/t/scrap/33984
+0 5
+Mozilla/5.0 (Linux; Android 9; SAMSUNG SM-G960N Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/
+0 48
+Carbon
+0 2
+Mozilla/5.0 (Linux; Android 8.0.0; LGM-V300K Build/OPR1.170623.026; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Ch
+0 58
+Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Brackets/1.13.1.0 Chrome/49.0.2623.110 Safari/537.
+0 4
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 13
+Mozilla/5.0 (Linux; Android 8.0.0; SM-G950N Build/R16NW; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/73.0.3
+0 221
+Mozilla/5.0 (Linux; Android 8.0.0; SM-G930S Build/R16NW; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/73.0.3
+0 53
+Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Googlebot/2.1; +http://www.google.com/bot.html) Safari/537.36
+0 48
+Mozilla/5.0 (Linux; Android 9; SM-G960N Build/PPR1.180610.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/
+0 158
+Googlebot-Image/1.0
+0 8
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+0 877
+Microsoft-WebDAV-MiniRedir/10.0.17763
+0 4
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0; NP02)
+0 62
+Mozilla/5.0 (iPhone; CPU iPhone OS 11_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15G77 KAKAOTALK 8.3.
+0 149
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; Trident/6.0)
+0 2
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile S
+0 24
+Mozilla/5.0 (Linux; U; Android 4.4.2; en-us; SCH-I535 Build/KOT49H) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile
+0 4
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+0 43
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36
+0 325
+Mozilla/5.0 (Linux; Android 9; SM-G950N Build/PPR1.180610.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/
+0 104
+Mozilla/5.0 (iPhone; CPU iPhone OS 12_1_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0 Mobile/15E148 
+0 262
+Mozilla/5.0 (Windows NT 6.3; Trident/7.0; rv:11.0) like Gecko
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/17.1
+0 43
+Mozilla/5.0 (iPhone; CPU iPhone OS 12_1_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/16C101 KAKAOTALK 8.3
+0 69
+Mozilla/5.0 (Linux; Android 7.0; MI MAX Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/73.0.3683
+0 53
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
